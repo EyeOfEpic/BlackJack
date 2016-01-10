@@ -1,4 +1,4 @@
 
-public class Croupier {
+public class Croupier extends Player {
 
 }
